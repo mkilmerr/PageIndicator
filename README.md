@@ -32,6 +32,6 @@ To install PageIndicator package, import `https://github.com/mkilmerr/PageIndica
 ## Previous and Next Dot ( to update current page dot index)
 
 ```swift 
-    pageControl.next() ///
-    pageControl.previous() /// 
+    pageControl.next() /// increased one step to the page indicator 
+    pageControl.previous() /// decreased one step to the page indicator
 ```
