@@ -1,5 +1,7 @@
 # PageIndicator
 
+### PageIndicator provides a custom PageControl indicator 
+
 ## Installation
 
 To install PageIndicator package, import `https://github.com/mkilmerr/PageIndicator.git` in SPM
