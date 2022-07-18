@@ -9,7 +9,7 @@ To install PageIndicator package, import `https://github.com/mkilmerr/PageIndica
 
 ```swift 
 
-    private let pageControl: PageIndicator = {
+    private var pageControl: PageIndicator = {
         let pageIndicator = PageIndicator(pages: 23, currentPageIndex: 6)
         pageIndicator.translatesAutoresizingMaskIntoConstraints = false
         return pageIndicator
@@ -21,7 +21,7 @@ To install PageIndicator package, import `https://github.com/mkilmerr/PageIndica
 
 ```swift 
 
-    private let pageControl: PageIndicator = {
+    private var pageControl: PageIndicator = {
         let pageIndicator = PageIndicator(pages: 5, currentPageIndex: 2, color: .pink, borderColor: .blue)
         pageIndicator.translatesAutoresizingMaskIntoConstraints = false
         return pageIndicator
