@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install PageIndicator package, import `FFFF` in SPQM
+To install PageIndicator package, import `https://github.com/mkilmerr/PageIndicator.git` in SPQM
 
 ## Usage example 
 
